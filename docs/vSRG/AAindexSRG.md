@@ -1,11 +1,7 @@
-#  
+# vSurveillence and Responce Group
 
-
-
-
-**vForce Element Group Commander (vFEGCDR)**  
-**"SNoOzE"**  
-
-
-![vSRG Logo](../assests/images/RAAFv_Unit_HQvSRG.png)
-<figcaption>vAIR MOBILITY GROUP</figcaption>
+<figure>
+<p><img alt="vSRG Logo" src="/assests/images/RAAFv_Unit_HQvSRG.png" width="400">
+  </p>
+<figcaption>vAIR MOBILITY GROUP COMMANDER <h1>"SNOOZE"</h1></figcaption>
+</figure>

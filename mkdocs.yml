@@ -14,6 +14,7 @@ theme:
     - conect.tabs.link
     - content.code.annotation
     - content.copde.copy
+    - header.autohide
   language: en
   palette:
     - scheme: dafault 
@@ -50,6 +51,7 @@ theme:
       quote: octicons/quote-16
   plugins:
   - glightbox
+  - git-authors
 
 markdown_extensions:
 

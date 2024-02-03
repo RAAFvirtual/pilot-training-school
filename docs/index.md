@@ -1,7 +1,8 @@
 RAAFv PTS
-# Welcome to the RAAF Virtual Pilot Training School
+# Welcome to the RAAF Virtual Pilot Training School  
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-
-Hi
+<figure>
+<p><img alt="vAMG Logo" src="/assests/images/RAAFv_Clerg.png" width="100%">
+  </p>
+<figcaption>CHIEF FLYING INSTRUCTOR <h1>"TOKO"</h1></figcaption>
+</figure>
