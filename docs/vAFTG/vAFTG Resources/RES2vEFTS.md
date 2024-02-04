@@ -1,5 +1,15 @@
 # vEFTS Student Recources
 
+### Download Links
+All these items are required prior to commencing your flight training. If you have an any questions please reach out to a QFI in the <a href="https://discord.com/channels/293624265633431562/864280594749849600">efts-discussion Discord text channel.</a>  
+
+* <a href="http://fsuipc.com/">FSUIPC For MSFS2020**</a>
+* <a href="https://crew.raafvirtual.org/downloads">RAAFv ACARS System (Flight Tracking)</a>
+* <a href="https://joinfs.net/">JoinFS</a>
+* <a href="https://flightsim.to/file/5383/yourcontrols-shared-cockpit-for-msfs">YourControls</a>
+* <a href="https://vpilot.rosscarlson.dev/Download">vPilot Software</a>
+* <a href="https://discord.com/channels/293624265633431562/973127373455249418">DA40NG Liveries and VMR Files</a>
+
 ### Pilot Flight Plan Details
 
 !!! DANGER "VSOA Requirements"
