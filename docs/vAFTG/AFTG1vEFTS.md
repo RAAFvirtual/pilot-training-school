@@ -24,8 +24,8 @@ On successful completion of this course you will be able to confidentially condu
 * Demonstrate understanding of VATSIM airspaces.  
 
 ### Course References and Links
-* RAAFv OPMAN
-* DA40NG Checklist
+* RAAFv OPMAN  
+* <a href="https://1drv.ms/i/s!Ag-Zb3q7TOEgguBVaG5QgH_jaEwVgg?e=gOg3aa" target="_blank">DA40NG Checklist</a>
 * RAAFv Base East Sale Scenery
 
 ---
