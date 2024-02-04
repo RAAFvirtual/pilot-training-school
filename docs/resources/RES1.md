@@ -3,3 +3,5 @@
   </p>
 <figcaption>vAIR COMBAT GROUP <h1>"TOKO"</h1></figcaption>
 </figure>
+
+![Finger Tip](../img/Fingertip_Hornet.png)
