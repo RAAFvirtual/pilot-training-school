@@ -1,4 +1,6 @@
 site_name: RAAFv Pilot Training School
+repo_name: VATSIM Learning Centre
+repo_url: https://my.vatsim.net/learn
 theme:
   name: material
   features:
