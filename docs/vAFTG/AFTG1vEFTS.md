@@ -6,6 +6,8 @@
 <figcaption></figcaption>
 </figure>
 
+HELLO TESTING UPDATES
+
 ### Introduction
 Welcome to the vElementary Flight Training Course in the DA40NG for Microsoft Flight Simulator. This may be your first introduction to flying on the VATSIM network or first time flying Visual Flight Rules (VFR) and along with the RAAFv instructors, we will be using the VATSIM Pilot Learning Centre to provide you the confidence and competence with flying on the VATSIM network.
 
