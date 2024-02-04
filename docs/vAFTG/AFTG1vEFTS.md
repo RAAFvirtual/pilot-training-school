@@ -1,7 +1,7 @@
 # vEFTS
 
 <figure>
-<p><img alt="vEFTS Logo" src="/assets/images/RAAFv_Unit_vEFTS.png" width="100">
+<p><img alt="vEFTS Logo" src="RAAFv_Unit_vEFTS.png" width="100">
   </p>
 <figcaption></figcaption>
 </figure>
