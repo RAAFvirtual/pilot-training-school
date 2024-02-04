@@ -17,5 +17,5 @@
 
 ### East Sale Parking Lines
 <figure>
-<p><img alt="Parking" src="../img/YMES_Lines.png" width="800">
+<p><img alt="Parking" src="../img/YMES_LINES.png" width="800">
 </p></figure>
