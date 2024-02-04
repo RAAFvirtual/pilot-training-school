@@ -3,8 +3,8 @@
 ### Pilot Flight Plan Details
 
 !!! DANGER "VSOA Requirements"
-    OPR/RAAFVIRTUAL.ORG/VSOA must be in your flight plan remarks each time you fly on RAAFv ACARS.
-    
+    **OPR/RAAFVIRTUAL.ORG/VSOA** must be in your flight plan remarks each time you fly on RAAFv ACARS.
+
 **CALLSIGN:** ASTR xx - your RAAFv ID number. Example ASY101, therefore it'll be **ASTR01**
 
 **FLIGHT PLAN:** ESL R360 ESL
