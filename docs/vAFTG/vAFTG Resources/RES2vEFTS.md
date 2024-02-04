@@ -2,7 +2,7 @@
 
 ### Pilot Flight Plan Details
 
-!!! CAUTION "Pilot Flight Plan Details"
+!!! DANGER "Pilot Flight Plan Details"
     **CALLSIGN:** ASTR xx - your RAAFv ID number. Example ASY101, therefore it'll be **ASTR01**
 
     **FLIGHT PLAN:** ESL R360 ESL
