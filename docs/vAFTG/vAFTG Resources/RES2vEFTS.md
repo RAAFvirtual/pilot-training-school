@@ -2,12 +2,14 @@
 
 ### Pilot Flight Plan Details
 
-!!! DANGER "Pilot Flight Plan Details"
-    **CALLSIGN:** ASTR xx - your RAAFv ID number. Example ASY101, therefore it'll be **ASTR01**
+!!! DANGER "VSOA Requirements"
+    OPR/RAAFVIRTUAL.ORG/VSOA must be in your flight plan remarks each time you fly on RAAFv ACARS.
+    
+**CALLSIGN:** ASTR xx - your RAAFv ID number. Example ASY101, therefore it'll be **ASTR01**
 
-    **FLIGHT PLAN:** ESL R360 ESL
+**FLIGHT PLAN:** ESL R360 ESL
 
-    **RMK:** OPR/RAAFVIRTUAL.ORG/VSOA PER/A RTF/ASTRA RMK/OPS WI R360
+**RMK:** OPR/RAAFVIRTUAL.ORG/VSOA PER/A RTF/ASTRA RMK/OPS WI R360
 
 <figure>
 <p><img alt="R360" src="../img/vEFTS_Flight_Plan.png" width="800">
