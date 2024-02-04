@@ -26,7 +26,7 @@ On successful completion of this course you will be able to confidentially condu
 ### Course References and Links
 * RAAFv OPMAN  
 * <a href="https://1drv.ms/i/s!Ag-Zb3q7TOEgguBVaG5QgH_jaEwVgg?e=gOg3aa" target="_blank">DA40NG Checklist</a>
-* RAAFv Base East Sale Scenery
+* <a href="https://crew.raafvirtual.org/dmarket" target="_blank">RAAFv Base East Sale Scenery</a>
 
 ---
 

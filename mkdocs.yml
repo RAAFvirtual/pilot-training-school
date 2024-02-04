@@ -1,13 +1,14 @@
 site_name: RAAFv Pilot Training School
 repo_name: VATSIM Learning Centre
 repo_url: https://my.vatsim.net/learn
+extra_css:
+  - stylesheets/extra.css
 theme:
   name: material
   features:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.indexes
-    - navigation.sections
     - nagivation.expand
     - navigation.path
     - toc.integrate
@@ -34,7 +35,7 @@ theme:
         previous: fontawesome/solid/angle-left
         next: fontawesome/solid/angle-right
       primary: darkblue
-      accent: red
+      accent: light blue
   font:
     text: Roboto
   logo: RAAFv_Sticker_Logo_SML.png
